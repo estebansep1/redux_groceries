@@ -73,3 +73,4 @@ const render = () => {
  //! Subscribe to render function
 
  store.subscribe(render)
+ 
